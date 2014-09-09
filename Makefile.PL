@@ -24,7 +24,7 @@ recommends Test::Pod::Coverage   1.08
 
 homepage    http://padre.perlide.org/trac/wiki/PadrePluginNopaste
 bugtracker  http://padre.perlide.org/trac
-repository  http://svn.perlide.org/padre/trunk/Padre-Plugin-Nopaste/
+repository  https://github.com/PadreIDE/Padre-Plugin-Nopaste/
 
 no_index directory qw{ inc share t xt }
 

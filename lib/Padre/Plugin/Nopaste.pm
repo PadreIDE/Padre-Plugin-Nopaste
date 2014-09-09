@@ -405,7 +405,7 @@ L<http://padre.perlide.org/trac/wiki/PadrePluginNopaste>
 
 =item * Our svn repository
 
-L<http://svn.perlide.org/padre/trunk/Padre-Plugin-Nopaste>,
+L<https://github.com/PadreIDE/Padre-Plugin-Nopaste>,
  and can be browsed at
   L<http://padre.perlide.org/browser/trunk/Padre-Plugin-Nopaste>.
 
